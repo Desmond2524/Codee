@@ -1,0 +1,8 @@
+num = 20
+while num <=60:
+    print(num, end = " ")
+    num += 2
+    
+print()
+for i in range(20, 62, 2):
+    print (i, end = " ") 
